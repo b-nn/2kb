@@ -1,2 +1,2 @@
-# b-nn.github.io
-about me page
+# 2kb.eu
+secondary about me page, modified from lowkey.gay
